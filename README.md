@@ -11,7 +11,7 @@ Install
 
 Run
     
-    npm install -g shadowsocks
+    npm install
     
 c++ addons with their dependent dlls are put in node_modules/videoproc
 they are compling with vc++ 2010, so only works in windows
